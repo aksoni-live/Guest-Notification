@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837640577129",
+    "project_id": "guest-notification-5e43a",
+    "storage_bucket": "guest-notification-5e43a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837640577129:android:579143f617bf9a890782f8",
+        "android_client_info": {
+          "package_name": "com.example.guest_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYyqdBX1Pme5YLrqHlEqG0LkE8y21O7V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
